@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:14:37:19 +0800] "GET /travel HTTP/1.1" 302 - http-bio-12121-exec-1 0
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:14:37:20 +0800] "GET /travel/ HTTP/1.1" 304 - http-bio-12121-exec-3 191
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:14:37:20 +0800] "GET /travel/footer.html HTTP/1.1" 304 - http-bio-12121-exec-5 49
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:14:37:20 +0800] "GET /travel/header.html HTTP/1.1" 304 - http-bio-12121-exec-2 62
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:14:37:21 +0800] "GET /travel/images/logo1.jpg HTTP/1.1" 304 - http-bio-12121-exec-7 152
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:14:37:21 +0800] "GET /travel/user/findUser HTTP/1.1" 200 4 http-bio-12121-exec-6 326
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:14:37:21 +0800] "GET /travel/user/findUser HTTP/1.1" 200 4 http-bio-12121-exec-10 0
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:14:37:22 +0800] "GET /travel/route/showIndex HTTP/1.1" 200 - http-bio-12121-exec-4 1459
+0:0:0:0:0:0:0:1 - - [14/Aug/2019:14:37:22 +0800] "GET /travel/category/find HTTP/1.1" 200 - http-bio-12121-exec-8 1399
